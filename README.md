@@ -6,12 +6,12 @@ You can always submit yours in Issues.
 
 <h4>
     BADGE &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/anafro/prime.md"><img height="15" alt="prime.md award" src="https://raw.githubusercontent.com/anafro/prime.md/refs/heads/main/assets/badge.png" /></a>
+    <a href="https://github.com/anafro/prime.md"><img height="17" alt="prime.md award" src="https://raw.githubusercontent.com/anafro/prime.md/refs/heads/main/assets/badge.png" /></a>
 </h4>
 Once your README is prime-awarded, you can add our badge.
 
 ```html
-<a href="https://github.com/anafro/prime.md"><img height="14" alt="prime.md award" src="https://raw.githubusercontent.com/anafro/prime.md/refs/heads/main/assets/badge.png" /></a>
+<a href="https://github.com/anafro/prime.md"><img height="17" alt="prime.md award" src="https://raw.githubusercontent.com/anafro/prime.md/refs/heads/main/assets/badge.png" /></a>
 ```
 
 <br>
