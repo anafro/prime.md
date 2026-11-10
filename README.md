@@ -50,6 +50,8 @@ that everyone should consider trying that too;
 
 [`emillyy-cell`](https://github.com/emillyy-cell) &mdash; using a primary color and interactive project repo cards in md body looks amazing!
 
+[`ashwin8332`](https://github.com/ashwin8332) &mdash; a stunning, cyberpunky svg animation, nice and gorgeous;
+
 ##### Hilarious
 
 [`adamdotdevin/good-repo`](https://github.com/adamdotdevin/good-repo) &mdash; we couldn't skip this one, could we? good repo, indeed.
