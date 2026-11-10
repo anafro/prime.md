@@ -28,6 +28,7 @@ LIST
 
 [`mantrakp04/ardia`](https://github.com/mantrakp04/ardia) &mdash; clean, easy-to-read considering text size; 
 an amazing example of layout engineering.<br>
+
 [`amir20/dozzle`](https://github.com/amir20/dozzle) &mdash; rich of docs links, it makes people learn the tool faster
 by reducing clicks;
 
@@ -35,14 +36,25 @@ by reducing clicks;
 [`MikalaiKryvusha`](https://github.com/MikalaiKryvusha) &mdash; despite project section size, it's buttery-smooth to read;
 also very nice layout usage over sections;
 
+[`DominusX`](https://github.com/DominusX) &mdash; this md fits the half of a screen, yet it's complete,
+and have a well-forged layout; 
+
 
 ##### Visually Impressive
 [`burjoawl`](https://github.com/burjoawl) &mdash; interesting layout usage, and gif makes it unique, and alive;
+
+[`vitorandao`](https://github.com/vitorandao) &mdash; having only an svg animation in their md, it's genuinely eye-catching!
+
+[`vitorandao/Spawnly`](https://github.com/vitorandao/Spawnly) &mdash; we love to see people using color schemes on their md, and believe 
+that everyone should consider trying that too;
+
+[`emillyy-cell`](https://github.com/emillyy-cell) &mdash; using a primary color and interactive project repo cards in md body looks amazing!
 
 ##### Hilarious
 
 [`adamdotdevin/good-repo`](https://github.com/adamdotdevin/good-repo) &mdash; we couldn't skip this one, could we? good repo, indeed.
 
+[`kelseyhightower/nocode`](https://github.com/kelseyhightower/nocode) &mdash; pure art, no additional comment needed here.
 
 <br><br><br>
 
